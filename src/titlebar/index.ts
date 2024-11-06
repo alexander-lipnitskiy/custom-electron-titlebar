@@ -58,7 +58,7 @@ export class CustomTitlebar extends ThemeBar {
 		},
 		unfocusEffect: true,
 		minWidth: 400,
-		minHeight: 270,
+		minHeight: 270
 	}
 
 	private platformIcons: { [key: string]: string }

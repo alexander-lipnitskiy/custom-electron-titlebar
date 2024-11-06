@@ -27,6 +27,7 @@ body {
   height: 31px;
   line-height: 31px;
   z-index: 99999;
+  border-bottom: 1px solid rgb(240, 240, 240);
 }
 
 .cet-titlebar *,
